@@ -1,4 +1,4 @@
-Resumo sobre o capítulo 4 do livro 
+**Resumo sobre o capítulo 4 do livro**
 
 Os dados de treinamento apesar de muitos não darem a devida importância é essencial para acrescentar melhorias e aumentar o desempenho dos modelos de aprendizado de máquina. Muitos dados coletados podem vir complexos, imprevisíveis, muito aleatórios ou até mesmo confusos, se eles não forem tratados corretamente, podem prejudicar a operação do aprendizado de máquina, para isso o capítulo abordou diferentes técnicas para criar bons dados de treinamento na fase de desenvolvimento de um aprendizado de máquina. 
 
