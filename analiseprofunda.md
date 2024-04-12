@@ -1,4 +1,4 @@
-**Análise sobre o capítulo 0 do livro o "The Principles of Deep Learning Theory" **
+**Análise sobre o capítulo 0 do livro o "The Principles of Deep Learning Theory"**
 
 Para o estudo da deep learning, o autor explica que os conceitos microscópicos e macroscópicos são apresentados seguindo a tradição da física teórica, a qual encontra teorias simples e eficazes para soluções complexas, como por exemplo, a termodinâmica e mecânica estatística, onde chega a fazer comparações com a deep learning. 
 
